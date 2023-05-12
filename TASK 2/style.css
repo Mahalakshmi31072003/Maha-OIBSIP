@@ -1,0 +1,180 @@
+*{
+  margin:0px;
+  padding : 0px;
+  box-sizing: border-box;
+}
+body{
+  font-family:'Times New Roman', Times, serif;
+  color: whitesmoke;
+  background: url("https://ak1.picdn.net/shutterstock/videos/14996698/thumb/1.jpg");
+}
+.container{
+  max-width: 90rem;
+  margin:2rem auto;
+  padding :0px 2rem;
+}
+.header{
+  padding:2rem;
+  margin:1 rem 0px;
+  text-align: center;
+}
+.header >.title{
+  margin-bottom: 1rem;
+
+}
+.tribute{
+  display:grid;
+  grid-template-columns:2fr 1fr;
+  max-width:78rem;
+  margin:0px auto;
+  background:white;
+  color:black;
+  align-items: center;
+  padding:0px 0px 0px 1 rem;
+}
+.tribute blockquote{
+  text-align:center;
+  font-size:2rem;
+}
+
+.tribute img{
+  max-width: 100%;
+}
+.biogpy{
+  margin:2rem auto;
+  padding:0px 0.5rem;
+  max-width: 80rem;
+  font-size:large;
+
+}
+.biogpy>h2{
+  text-align: center;
+  font-size: 2rem;
+  line-height:1.2;
+}
+.biogpy > p{
+  font-size: 1.3rem;
+  text-align: justify;
+  line-height:1.6;
+  padding: 75px;
+}
+.biogpy>hr{
+  margin-top: 2rem;
+
+
+}
+
+.firstspace{
+  margin:2rem auto;
+  padding:0px 0.5rem;
+  max-width: 80rem;
+  font-size:large;
+
+}
+.firstspace>h2{
+  text-align: center;
+  font-size: 2rem;
+  line-height:1.2;
+}
+.firstspace > p{
+  font-size: 1.3rem;
+  text-align: justify;
+  line-height:1.6;
+  padding: 75px;
+}
+.firstspace>hr{
+  margin-top: 2rem;
+
+
+}
+
+.secondspace{
+  margin:2rem auto;
+  padding:0px 0.5rem;
+  max-width: 80rem;
+  font-size:large;
+
+}
+.secondspace>h2{
+  text-align: center;
+  font-size: 2rem;
+  line-height:1.2;
+}
+.secondspace > p{
+  font-size: 1.3rem;
+  text-align: justify;
+  line-height:1.6;
+  padding: 75px;
+}
+.secondspace>hr{
+  margin-top: 2rem;
+
+
+}
+
+.honours{
+  margin:2rem auto;
+  padding:0px 0.5rem;
+  max-width: 80rem;
+  font-size:large;
+
+}
+.honours>h2{
+  text-align: center;
+  font-size: 2rem;
+  line-height:1.2;
+}
+.honours> p{
+  font-size: 1.3rem;
+  text-align: justify;
+  line-height:1.6;
+  padding: 75px;
+}
+.honours>hr{
+  margin-top: 2rem;
+
+
+}
+
+/* life */
+#life{
+  padding: 25%;
+  color: #efedf9;
+  /* font-size:25px; */
+  font-size: 1.3rem;
+  table-layout: auto;
+  text-align: center;
+
+
+
+}
+
+/* Marque tag */
+.marq{
+  padding-bottom: 25px;
+
+}
+
+.wiki a:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+
+}
+.wiki{
+  text-align:center;
+  font-weight: 100;
+  
+
+
+  font-size: larger;
+  background-color: #efedf9;
+   
+   
+}
+.insta a{
+  color: azure;
+}
+
+.foot{
+  text-align: center;
+}
